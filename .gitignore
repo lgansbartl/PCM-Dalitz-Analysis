@@ -1,0 +1,6 @@
+.vscode/
+Data/
+Plots*/
+*.txt
+*.json
+*.DS_Store
