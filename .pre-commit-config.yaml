@@ -20,7 +20,6 @@ repos:
         name: clang-tidy
         entry: clang-tidy
         language: system
-        types: [c, c++]
         files: \.(c|cc|cpp|cxx|h|hpp)$
         args:
           - -p=./build/
