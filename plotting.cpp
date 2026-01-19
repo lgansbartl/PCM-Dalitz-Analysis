@@ -1,6 +1,7 @@
 // Only Plotting
 
 #include "helper.h"
+#include <vector>
 
 void plotting()
 {
